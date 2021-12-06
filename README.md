@@ -1,14 +1,2 @@
-# HappyBirthday-Script
-
-Simple happy birthday script build using bootstrap 4
-
-Use for learn.
-
-
-Demo Site : <a href="https://wafarifki.github.io/HappyBirthday-Script/">See Demo</a>
-
-
-<b>#Mari Mengenal Saya Lebih Dekat :D </b>
-<br><a href="https://instagram.com/wafarifki_" target="_blank">Instagram</a>
-<br><a href="https://facebook.com/bekasiHACKERlive" target="_blank">Facebook</a>
-<br><a href="https://wafarifki.tk" target="_blank">Situs Web</a>
+![z11](https://user-images.githubusercontent.com/90503141/144937433-63075d0d-cd51-4f62-ab96-a15f63fb4925.jpg)
+![a1](https://user-images.githubusercontent.com/90503141/144937442-ae47d5ff-8ead-4c04-95fa-d04c08c14bf8.jpg)
